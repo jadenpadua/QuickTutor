@@ -7,5 +7,5 @@ Usage:
 3. npm install  (For installing dependencies)
 4. npm run server
 
-@author Jaden Padua
+
 mailto: [paduajaden@gmail.com]
